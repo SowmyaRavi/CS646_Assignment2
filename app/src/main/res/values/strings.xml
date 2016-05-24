@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">MultipleActivities</string>
+
+    <string name="select">Category</string>
+    <string-array name="activities">
+        <item>Sports</item>
+        <item>Time</item>
+        <item>KeyBoard</item>
+    </string-array>
+    <string name="activity_button">Click</string>
+    <string name="name">Enter Your Name</string>
+    <string name="country_list">Country List</string>
+
+    <string name="Time">Time</string>
+    <string name="Keyboard">Keyboard</string>
+    <string name="Sports">Sports</string>
+
+
+    <string name="back">Back</string>
+    <string name="input">Enter Name Here</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="message">Email Address</string>
+    <string name="hide">Hide</string>
+
+
+    <string name="save">Save</string>
+
+
+    <string-array name="country_name">
+        <item>India</item>
+        <item>USA</item>
+        <item>Mexico</item>
+    </string-array>
+
+    <string-array name="india_sports">
+        <item>Cricket</item>
+        <item>Chess</item>
+        <item>Badminton</item>
+        <item>Field-Hockey</item>
+        <item>Football</item>
+        <item>Tennis</item>
+        <item>GilliDanda</item>
+        <item>Golf</item>
+    </string-array>
+
+    <string-array name="usa_sports">
+        <item>Football</item>
+        <item>BaseBall</item>
+        <item>Basketball</item>
+        <item>Hockey</item>
+        <item>Soccer</item>
+        <item>Golf</item>
+        <item>SkateBoard</item>
+    </string-array>
+    <string-array name="mexico_sports">
+        <item>Baseball</item>
+        <item>FootBall</item>
+        <item>Boxing</item>
+        <item>Charreria</item>
+        <item>Bullfighting</item>
+        <item>Basque Pelota</item>
+    </string-array>
+    <string name="Country_Name">Select Country</string>
+    <string name="back1">Back</string>
+
+
+</resources>
